@@ -1,0 +1,29 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
+  </action>
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta r" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="Vcs.Log.ShowDiffPreview">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta d" />
+  </action>
+</keymap>
