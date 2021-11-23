@@ -2,6 +2,7 @@
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/code/alef/alef-graphql-micrographs/generated/graphql/schema.ts" />
     <file url="file://$USER_HOME$/code/alef/alef-graphql-micrographs/schema.graphql" />
+    <file url="file://$USER_HOME$/likha/limeray-typescript/api/schema.graphql" />
     <file url="file://$USER_HOME$/likha/limeray/api/schema.graphql" />
   </component>
 </application>
